@@ -1,5 +1,5 @@
 # jwtToken_verify
-<h4>Tech stack</h4>
+## Tech stack
 <ul>
   <li>Node js</li>
   <li>In-memory Database</li>
@@ -17,6 +17,5 @@ This project demonstrates the implementation of JSON Web Tokens (JWT) for authen
 
 ## Install
 
-```http
- npm install jsonwebtoken
-```
+```bash
+npm install jsonwebtoken
